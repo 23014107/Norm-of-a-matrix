@@ -26,7 +26,7 @@ ans=np.linalg.norm(mat,1)
 Norm_of_matrix="{:.2f}".format(ans)
 print(Norm_of_matrix)
 ```
-# Program to find 2-Norm of a Matrix
+
 '''
 #Program to find 2-norm of a matrix.
 #Developed by: RAMYA.P
@@ -38,7 +38,7 @@ ans=np.linalg.norm(mat,2)
 Norm_of_matrix="{:.2f}".format(ans)
 print(Norm_of_matrix)
 ```
-# Program to find infinity-norm of a matrix
+
 '''
 #Program to find infinity-norm of a matrix
 #Developed by: RAMYA.P
@@ -50,6 +50,7 @@ ans=np.linalg.norm(mat,np.inf)
 Norm_of_matrix="{:.2f}".format(ans)
 print(Norm_of_matrix)
 ```
+
 ## Output:
 ### 1-Norm of a Matrix
 ![Screenshot 2024-05-05 172749](https://github.com/23014107/Norm-of-a-matrix/assets/151625620/5f17b3a9-6806-45fd-b067-628ea9585df9)
