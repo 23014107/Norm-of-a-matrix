@@ -28,7 +28,8 @@ mat=np.array(eval(input()))
 ans=np.linalg.norm(mat,1)
 Norm_of_matrix="{:.2f}".format(ans)
 print(Norm_of_matrix)
-
+```
+```
 # Program to find 2-norm of a matrix.
 
 Program to find 2-norm of a matrix.
@@ -40,7 +41,8 @@ mat=np.array(eval(input()))
 ans=np.linalg.norm(mat,2)
 Norm_of_matrix="{:.2f}".format(ans)
 print(Norm_of_matrix)
-
+```
+```
 # Program to find infinity-norm of a matrix
 
 Program to find infinity-norm of a matrix
