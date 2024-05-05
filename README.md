@@ -40,7 +40,7 @@ ans=np.linalg.norm(mat,2)
 Norm_of_matrix="{:.2f}".format(ans)
 print(Norm_of_matrix)
 
-```
+'''
 
 '''
 #Program to find infinity-norm of a matrix
