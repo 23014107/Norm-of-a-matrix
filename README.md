@@ -1,4 +1,4 @@
-# Norm of a matrix
+# EX07 Norm of a matrix
 NAME:RAMYA.P
 
 REGISTER NUMBER:212223240137
