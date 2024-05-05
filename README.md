@@ -32,14 +32,11 @@ print(Norm_of_matrix)
 #Developed by: RAMYA.P
 #RegisterNumber: 212223240137
 
+
 import numpy as np
-
 mat=np.array(eval(input()))
-
 ans=np.linalg.norm(mat,2)
-
 Norm_of_matrix="{:.2f}".format(ans)
-
 print(Norm_of_matrix)
 
 ```
